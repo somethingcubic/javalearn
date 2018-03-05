@@ -1,4 +1,4 @@
-package com.javalearn;
+package com.javalearn.part1;
 import  java.util.*;
 
 public class HelloDate {

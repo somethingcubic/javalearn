@@ -1,4 +1,4 @@
-package com.javalearn;
+package com.javalearn.part1;
 
 public class ShowProperties {
     public static void main(String[] args) {
